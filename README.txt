@@ -1,1 +1,6 @@
-Kokanee Hooman - static website. Upload index.html and script.js to the root of a GitHub repository and deploy on Vercel using Other preset, no build command. No backend, database, or environment variables required. Orders open WhatsApp with a prefilled message; customers must tap Send. Confirm orders and payment directly via WhatsApp. No order logs or independent server price verification. Update menu prices in script.js and redeploy.
+Kokanee Hooman - Natural Blackboard Website
+
+Upload index.html and script.js to the root of your GitHub repository or static web host.
+No backend required. Cart checkout opens WhatsApp with a prefilled order.
+
+Footer contact: +91 88061 16613 / kokaneehooman@gmail.com
