@@ -1,6 +1,2 @@
-Kokanee Hooman - Natural Blackboard Website
-
-Upload index.html and script.js to the root of your GitHub repository or static web host.
-No backend required. Cart checkout opens WhatsApp with a prefilled order.
-
-Footer contact: +91 88061 16613 / kokaneehooman@gmail.com
+Kokanee Hooman - continuous scrolling menu
+Upload all files to the existing GitHub repository root. Vercel: Other, root ./, no build command. Test a preview branch before merging into main. Schoolbell loads from Google Fonts. No backend required.
